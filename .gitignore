@@ -32,3 +32,6 @@
 *.app
 
 src/jsonrpc
+
+.DS_Store
+*/.DS_Store
