@@ -1,2 +1,2 @@
-src/jsonrpc/
+src/jsonrpc/*
 !src/jsonrpc/include
